@@ -13,6 +13,6 @@ def_res=:1|.def_res
 res;def_res 
 )
 
-v =: 1+?100$100 NB. generates 100 numbers between 1-100
+v =: 1+?100$100 
 v 
 moving_avg ''
